@@ -199,10 +199,13 @@ sudo chown -R jenkins:jenkins /var/lib/jenkins
 ## 📸 Screenshots
 
 ### Successful Build Console Output
-![Build Success](screenshots/ss1.png)
+![Build Success](screenshorts/ss1.png)
 
 ### Jenkins Job Configuration
-![Job Config](screenshots/ss2.png)
+
+![Job Config](screenshorts/ss2.png)
+![Job Config](screenshorts/ss3.png)
+![Job Config](screenshorts/ss3.png)
 
 
 1. Fork the repository
